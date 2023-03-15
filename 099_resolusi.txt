@@ -5,3 +5,4 @@ Resolusiku :
 4. Bisa Laravel Inertia
 5. Masuk ke magang pilihan
 6. Bisa Nuxt.js
+7. 3,5 tahun tamat
