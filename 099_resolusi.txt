@@ -4,5 +4,6 @@ Resolusiku :
 3. Nilai Praktikum IMK nya A
 4. Bisa Laravel Inertia
 5. Masuk ke magang pilihan
-6. Bisa Nuxt.js
+
 7. 3,5 tahun tamat
+8. IPK diatas 3,5
